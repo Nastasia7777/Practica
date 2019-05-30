@@ -1,0 +1,7 @@
+C:\Users\nasta\source\my projects\7LAB\7LAB\obj\Debug\7LAB.csprojAssemblyReference.cache
+C:\Users\nasta\source\my projects\7LAB\7LAB\obj\Debug\7LAB.csproj.CoreCompileInputs.cache
+C:\Users\nasta\source\my projects\7LAB\7LAB\bin\Debug\7LAB.exe.config
+C:\Users\nasta\source\my projects\7LAB\7LAB\bin\Debug\7LAB.exe
+C:\Users\nasta\source\my projects\7LAB\7LAB\bin\Debug\7LAB.pdb
+C:\Users\nasta\source\my projects\7LAB\7LAB\obj\Debug\7LAB.exe
+C:\Users\nasta\source\my projects\7LAB\7LAB\obj\Debug\7LAB.pdb
