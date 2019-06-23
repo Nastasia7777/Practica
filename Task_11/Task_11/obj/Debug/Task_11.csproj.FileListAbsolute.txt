@@ -1,0 +1,7 @@
+C:\Users\nasta\source\repos\Task_11\Task_11\obj\Debug\Task_11.csprojAssemblyReference.cache
+C:\Users\nasta\source\repos\Task_11\Task_11\obj\Debug\Task_11.csproj.CoreCompileInputs.cache
+C:\Users\nasta\source\repos\Task_11\Task_11\bin\Debug\Task_11.exe.config
+C:\Users\nasta\source\repos\Task_11\Task_11\bin\Debug\Task_11.exe
+C:\Users\nasta\source\repos\Task_11\Task_11\bin\Debug\Task_11.pdb
+C:\Users\nasta\source\repos\Task_11\Task_11\obj\Debug\Task_11.exe
+C:\Users\nasta\source\repos\Task_11\Task_11\obj\Debug\Task_11.pdb
