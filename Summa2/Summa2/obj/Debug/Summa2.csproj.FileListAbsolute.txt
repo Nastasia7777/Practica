@@ -1,0 +1,7 @@
+C:\Users\nasta\source\repos\Summa2\Summa2\bin\Debug\Summa2.exe.config
+C:\Users\nasta\source\repos\Summa2\Summa2\bin\Debug\Summa2.exe
+C:\Users\nasta\source\repos\Summa2\Summa2\bin\Debug\Summa2.pdb
+C:\Users\nasta\source\repos\Summa2\Summa2\obj\Debug\Summa2.csproj.CoreCompileInputs.cache
+C:\Users\nasta\source\repos\Summa2\Summa2\obj\Debug\Summa2.exe
+C:\Users\nasta\source\repos\Summa2\Summa2\obj\Debug\Summa2.pdb
+C:\Users\nasta\source\repos\Summa2\Summa2\obj\Debug\Summa2.csprojAssemblyReference.cache
